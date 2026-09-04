@@ -3,7 +3,7 @@
 #Assignment: HW2
 
 #1. Print Hello World!
-Print ("Hello World")
+print("Hello World")
 #2. Take the variables below and change the name of the variables to match the type of
 #variable they are: string, integer, or boolean
 
@@ -39,3 +39,4 @@ strVar24 = strVar15
 intVar25 = 6
 
 #3. Take all the variables you labeled as "integer", add them together, and print the result.
+print (intVar1+ intVar6+intVar8+intVar13+intVar17+intVar18+ intVar19+intVar25)
