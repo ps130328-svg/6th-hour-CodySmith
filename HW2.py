@@ -3,7 +3,7 @@
 #Assignment: HW2
 
 #1. Print Hello World!
-
+Print ("Hello World")
 #2. Take the variables below and change the name of the variables to match the type of
 #variable they are: string, integer, or boolean
 
